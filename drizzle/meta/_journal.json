@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1740455749370,
+      "tag": "0000_glorious_kinsey_walden",
+      "breakpoints": true
+    }
+  ]
+}
